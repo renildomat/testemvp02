@@ -1,0 +1,37 @@
+# Core
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# Database
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Web Scraping
+yfinance==0.2.35
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+pdfplumber==0.10.4
+
+# Analysis
+scipy==1.12.0
+statsmodels==0.14.1
+
+# Visualization
+plotly==5.18.0
+streamlit-aggrid==0.3.4.post3
+
+# Jobs/Scheduling
+apscheduler==3.10.4
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
